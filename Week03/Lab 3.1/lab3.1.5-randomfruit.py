@@ -1,4 +1,4 @@
-# randomfruit.py
+# lab3.1.5-randomfruit.py
 # This program is used to select a random fruit
 # author: David Burke
 

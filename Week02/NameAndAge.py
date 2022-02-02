@@ -2,7 +2,7 @@
 # This program reads and then prints a users Name and Age
 # author: David Burke
 
-# Prompt the user to ender their name and age
+# Prompt the user to enter their name and age
 # The result is saved to a 1x2 array called user
 user = [str(input("Please input your name:")), int(input("and your Age:"))]
 

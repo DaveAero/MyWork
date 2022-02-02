@@ -1,5 +1,5 @@
 # Subtraction.py
-# This program reads a number and adds 1
+# This program performs subration and prints result
 # author: David Burke
 
 # printing the result of subtraction

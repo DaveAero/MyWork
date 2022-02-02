@@ -1,4 +1,4 @@
-# sub.py
+# lab3.1.2-sub.py
 # This program is used as a subraction calculator
 # author: David Burke
 

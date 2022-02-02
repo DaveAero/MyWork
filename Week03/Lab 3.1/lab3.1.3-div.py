@@ -1,4 +1,4 @@
-# div.py
+# lab3.1.3-div.py
 # This program is used as a division calculator
 # author: David Burke
 

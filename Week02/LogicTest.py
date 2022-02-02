@@ -1,4 +1,4 @@
-# AddOne.py
+# LogicTest.py
 # This program performs a logic test
 # author: David Burke
 

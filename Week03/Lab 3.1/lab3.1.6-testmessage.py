@@ -1,4 +1,4 @@
-# Testmessage.py
+# lab3.1.6-Testmessage.py
 # This program is used to test combinations of types in a variable
 # author: David Burke
 

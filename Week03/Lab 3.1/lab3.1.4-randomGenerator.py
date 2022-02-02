@@ -1,4 +1,4 @@
-# randomGenerator.py
+# lab3.1.4-randomGenerator.py
 # This program is used to generate a random number between 1 and 10
 # author: David Burke
 

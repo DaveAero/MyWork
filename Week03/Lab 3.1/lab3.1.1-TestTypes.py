@@ -1,4 +1,4 @@
-# TestTypes.py
+# lab3.1.1-TestTypes.py
 # This program is used to test Variable Types
 # author: David Burke
 
