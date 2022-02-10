@@ -11,6 +11,7 @@ topPicks = 3
 rangeLow = 0
 rangeHigh  = 100
 
+# creating empty list
 numbers = []
 
 for i in range(0,10):
