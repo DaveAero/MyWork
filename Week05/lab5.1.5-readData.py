@@ -7,15 +7,19 @@ transcript = []
 studentName = str(input("Please input students name:"))
 module = str(input("Enter a module name (leave blank to quit) :"))
 
+#check a module has been entered
 while module != "":
+    #if yes add the module to our dictionary
     modules = {"courseName":str(module),
                 "grade":0}
+    #add the dictionary entry to our list
     transcript.append(modules)
     module = str(input("Enter another module name (leave blank to quit) :"))
 
 ## assign grades to each module
 #check a module has been entered
 if len(transcript) != 0:
+    # run through each entry in the list transcipt
     for i in range(0, len(transcript)):
         grade = {"grade":int(input("Please input the grade for {}:".format(transcript[i]["courseName"])))}
         (transcript[i]).update(grade)

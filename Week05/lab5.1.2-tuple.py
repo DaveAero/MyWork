@@ -16,6 +16,9 @@ months = (  "January",
             "November",
             "December")
 
+# defining the months in summer
 summer = months[4:7]
+
+# printing the months in summer
 for month in summer:
     print(month)

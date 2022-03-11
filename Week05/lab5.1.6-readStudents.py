@@ -1,5 +1,5 @@
 # lab5.1.5-readData.py
-# This program is used to store a sudents name, coursed and course grades
+# This program is used to store a sudents name, courses and course grades
 # author: David Burke
 
 #user inputs
@@ -37,8 +37,6 @@ while studentName != "":
 
     #restart the while loop
     studentName = str(input("Please input another students name (leave blank to quit):"))
-
-
 
 
 # Printing all students at the end

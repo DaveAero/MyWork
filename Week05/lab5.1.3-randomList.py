@@ -1,5 +1,5 @@
 # lab5.1.3-randomList.py
-# This program is to gereate and print a random list of numbers
+# This program is used to generate and print a random list of numbers
 # author: David Burke
 
 # Load the random function
@@ -26,6 +26,8 @@ while len(queue) != 0:
 
         # the command pop(0) takes the first element out of a list
         currentNumber = queue.pop(0)
+        # print the current number and the list with this number removed
         print("current Number is {} and the queue is {}".format(currentNumber, queue))
 
-print ("the queu is now empty")
+# print when the while loop is complete
+print ("the queue is now empty")
