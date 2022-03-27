@@ -3,7 +3,9 @@
 # author: David Burke
 
 import json
+
 filename="testdict.json"
+
 def readDict():
     # this will throw an error if the file does not exist
     # it should readly just return an empty dict
